@@ -11,8 +11,8 @@ import Foundation
 
 open class Factorial {
     
-    func fact(num: Int ) -> Int  {
-        //ok
+    public func fact(num: Int ) -> Int  {
+        
         return num * 2
     }
 }

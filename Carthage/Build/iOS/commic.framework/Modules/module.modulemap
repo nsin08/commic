@@ -1,0 +1,10 @@
+framework module commic {
+  umbrella header "commic.h"
+
+  export *
+  module * { export * }
+}
+
+module commic.Swift {
+    header "commic-Swift.h"
+}
