@@ -16,6 +16,11 @@ public class Factorial {
         return num * 2
     }
     
+    public func isReal(){
+        
+        print("what do you think")
+    }
+    
     public init(){
         
     }
