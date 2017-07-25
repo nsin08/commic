@@ -15,4 +15,8 @@ public class Factorial {
         
         return num * 2
     }
+    
+    public init(){
+        
+    }
 }
