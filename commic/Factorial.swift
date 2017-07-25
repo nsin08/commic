@@ -9,7 +9,7 @@
 import Foundation
 
 
-open class Factorial {
+public class Factorial {
     
     public func fact(num: Int ) -> Int  {
         
