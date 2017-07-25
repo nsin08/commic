@@ -12,7 +12,7 @@ import Foundation
 open class Factorial {
     
     func fact(num: Int ) -> Int  {
-        
+        //ok
         return num * 2
     }
 }
